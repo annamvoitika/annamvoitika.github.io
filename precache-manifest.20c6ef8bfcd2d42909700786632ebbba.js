@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "91632980904fe7a97370098621d39e68",
+    "revision": "22114d53f7560e1b12a0f059b5b3a98c",
     "url": "/annamvoitika.github.io/annamvoitika.github.io/index.html"
   },
   {
-    "revision": "d5c3ea5f7909e5aede31",
+    "revision": "fb95494c0e63ac51f5b0",
     "url": "/annamvoitika.github.io/annamvoitika.github.io/static/css/2.8aa5a7f8.chunk.css"
   },
   {
-    "revision": "d8f14c8bc591274d480e",
+    "revision": "1bf67b8fb6528fc6348c",
     "url": "/annamvoitika.github.io/annamvoitika.github.io/static/css/main.8fe2226e.chunk.css"
   },
   {
-    "revision": "d5c3ea5f7909e5aede31",
-    "url": "/annamvoitika.github.io/annamvoitika.github.io/static/js/2.8412b463.chunk.js"
+    "revision": "fb95494c0e63ac51f5b0",
+    "url": "/annamvoitika.github.io/annamvoitika.github.io/static/js/2.222d0c7c.chunk.js"
   },
   {
     "revision": "7631940ea5cc44ddfa369d449caef6c4",
-    "url": "/annamvoitika.github.io/annamvoitika.github.io/static/js/2.8412b463.chunk.js.LICENSE.txt"
+    "url": "/annamvoitika.github.io/annamvoitika.github.io/static/js/2.222d0c7c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d8f14c8bc591274d480e",
-    "url": "/annamvoitika.github.io/annamvoitika.github.io/static/js/main.5e1189ba.chunk.js"
+    "revision": "1bf67b8fb6528fc6348c",
+    "url": "/annamvoitika.github.io/annamvoitika.github.io/static/js/main.af253480.chunk.js"
   },
   {
     "revision": "1d07280ce0c0f67adda7",

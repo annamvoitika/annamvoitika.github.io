@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/annamvoitika.github.io/annamvoitika.github.io/static/css/main.8fe2226e.chunk.css",
-    "main.js": "/annamvoitika.github.io/annamvoitika.github.io/static/js/main.5e1189ba.chunk.js",
-    "main.js.map": "/annamvoitika.github.io/annamvoitika.github.io/static/js/main.5e1189ba.chunk.js.map",
+    "main.js": "/annamvoitika.github.io/annamvoitika.github.io/static/js/main.af253480.chunk.js",
+    "main.js.map": "/annamvoitika.github.io/annamvoitika.github.io/static/js/main.af253480.chunk.js.map",
     "runtime-main.js": "/annamvoitika.github.io/annamvoitika.github.io/static/js/runtime-main.5b9fdd44.js",
     "runtime-main.js.map": "/annamvoitika.github.io/annamvoitika.github.io/static/js/runtime-main.5b9fdd44.js.map",
     "static/css/2.8aa5a7f8.chunk.css": "/annamvoitika.github.io/annamvoitika.github.io/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.8412b463.chunk.js": "/annamvoitika.github.io/annamvoitika.github.io/static/js/2.8412b463.chunk.js",
-    "static/js/2.8412b463.chunk.js.map": "/annamvoitika.github.io/annamvoitika.github.io/static/js/2.8412b463.chunk.js.map",
+    "static/js/2.222d0c7c.chunk.js": "/annamvoitika.github.io/annamvoitika.github.io/static/js/2.222d0c7c.chunk.js",
+    "static/js/2.222d0c7c.chunk.js.map": "/annamvoitika.github.io/annamvoitika.github.io/static/js/2.222d0c7c.chunk.js.map",
     "index.html": "/annamvoitika.github.io/annamvoitika.github.io/index.html",
-    "precache-manifest.92a87c8e04013b6aeeff65948c5b59dd.js": "/annamvoitika.github.io/annamvoitika.github.io/precache-manifest.92a87c8e04013b6aeeff65948c5b59dd.js",
+    "precache-manifest.20c6ef8bfcd2d42909700786632ebbba.js": "/annamvoitika.github.io/annamvoitika.github.io/precache-manifest.20c6ef8bfcd2d42909700786632ebbba.js",
     "service-worker.js": "/annamvoitika.github.io/annamvoitika.github.io/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/annamvoitika.github.io/annamvoitika.github.io/static/css/2.8aa5a7f8.chunk.css.map",
     "static/css/main.8fe2226e.chunk.css.map": "/annamvoitika.github.io/annamvoitika.github.io/static/css/main.8fe2226e.chunk.css.map",
-    "static/js/2.8412b463.chunk.js.LICENSE.txt": "/annamvoitika.github.io/annamvoitika.github.io/static/js/2.8412b463.chunk.js.LICENSE.txt",
+    "static/js/2.222d0c7c.chunk.js.LICENSE.txt": "/annamvoitika.github.io/annamvoitika.github.io/static/js/2.222d0c7c.chunk.js.LICENSE.txt",
     "static/media/anna3.jpg": "/annamvoitika.github.io/annamvoitika.github.io/static/media/anna3.f34f4bd4.jpg",
     "static/media/article.png": "/annamvoitika.github.io/annamvoitika.github.io/static/media/article.e2b43518.png",
     "static/media/chat.png": "/annamvoitika.github.io/annamvoitika.github.io/static/media/chat.432f9db7.png",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.5b9fdd44.js",
     "static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.8412b463.chunk.js",
+    "static/js/2.222d0c7c.chunk.js",
     "static/css/main.8fe2226e.chunk.css",
-    "static/js/main.5e1189ba.chunk.js"
+    "static/js/main.af253480.chunk.js"
   ]
 }
