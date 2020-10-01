@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/annamvoitika.github.io/static/css/main.8fe2226e.chunk.css",
+    "main.js": "/annamvoitika.github.io/static/js/main.8d5a18fa.chunk.js",
+    "main.js.map": "/annamvoitika.github.io/static/js/main.8d5a18fa.chunk.js.map",
+    "runtime-main.js": "/annamvoitika.github.io/static/js/runtime-main.ec10730f.js",
+    "runtime-main.js.map": "/annamvoitika.github.io/static/js/runtime-main.ec10730f.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/annamvoitika.github.io/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.79e637ff.chunk.js": "/annamvoitika.github.io/static/js/2.79e637ff.chunk.js",
+    "static/js/2.79e637ff.chunk.js.map": "/annamvoitika.github.io/static/js/2.79e637ff.chunk.js.map",
+    "index.html": "/annamvoitika.github.io/index.html",
+    "precache-manifest.cdcbd6475bb5a33e4dfec8174c429356.js": "/annamvoitika.github.io/precache-manifest.cdcbd6475bb5a33e4dfec8174c429356.js",
+    "service-worker.js": "/annamvoitika.github.io/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/annamvoitika.github.io/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.8fe2226e.chunk.css.map": "/annamvoitika.github.io/static/css/main.8fe2226e.chunk.css.map",
+    "static/js/2.79e637ff.chunk.js.LICENSE.txt": "/annamvoitika.github.io/static/js/2.79e637ff.chunk.js.LICENSE.txt",
+    "static/media/anna3.jpg": "/annamvoitika.github.io/static/media/anna3.f34f4bd4.jpg",
+    "static/media/article.png": "/annamvoitika.github.io/static/media/article.e2b43518.png",
+    "static/media/chat.png": "/annamvoitika.github.io/static/media/chat.432f9db7.png",
+    "static/media/main.png": "/annamvoitika.github.io/static/media/main.210ad387.png",
+    "static/media/plentyofdish.png": "/annamvoitika.github.io/static/media/plentyofdish.650d198b.png",
+    "static/media/soon.png": "/annamvoitika.github.io/static/media/soon.dec5a402.png",
+    "static/media/trello.png": "/annamvoitika.github.io/static/media/trello.a2015ffb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec10730f.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.79e637ff.chunk.js",
+    "static/css/main.8fe2226e.chunk.css",
+    "static/js/main.8d5a18fa.chunk.js"
+  ]
+}
