@@ -9,6 +9,14 @@ import * as serviceWorker from "./serviceWorker";
 import PlentyOfDish from "./PlentyOfDish.js";
 
 const rootElement = document.getElementById("root");
-ReactDOM.render(<App />, rootElement);
+ReactDOM.render(
+  <BrowserRouter>
+    <Switch>
+      <Route exact path="/" component={App} />
+      <Route path="/plentyofdish" component={PlentyOfDish} />
+    </Switch>
+  </BrowserRouter>,
+  rootElement
+);
 
 serviceWorker.unregister();
